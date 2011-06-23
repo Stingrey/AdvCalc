@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Application>
+    <Entry>AdvCalc</Entry>
+    <Name>
+        <English>AdvCalc</English>
+        <eng-GB>AdvCalc</eng-GB>
+    </Name>
+    <Vendor>Andreas "Stingrey" Falb</Vendor>
+    <Description>Advanced Calculator for bada</Description>
+    <Icons>
+        <MainMenu>AdvCalc.png<Type1>AdvCalc.png</Type1>
+            <Type2/>
+        </MainMenu>
+        <Setting/>
+        <Ticker/>
+        <QuickPanel/>
+        <LaunchImage>Splash.png<Type1>Splash.png</Type1>
+            <Type2/>
+        </LaunchImage>
+    </Icons>
+    <AutoScaling>
+        <Enabled>false</Enabled>
+    </AutoScaling>
+</Application>
